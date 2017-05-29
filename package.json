@@ -1,7 +1,7 @@
 {
-  "name": "quickstart",
+  "name": "backyard-view",
   "version": "1.0.0",
-  "description": "MEAN quickstart for any application",
+  "description": "Source code for The Backyard View website",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dmc3152/quickstart.git"
+    "url": "git+https://github.com/dmc3152/backyard-view.git"
   },
   "author": "Daniel Cook",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dmc3152/quickstart/issues"
+    "url": "https://github.com/dmc3152/backyard-view/issues"
   },
-  "homepage": "https://github.com/dmc3152/quickstart#readme"
+  "homepage": "https://github.com/dmc3152/backyard-view#readme"
 }

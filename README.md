@@ -1,24 +1,2 @@
-# quickstart
-This is an Angular 4 MEAN quickstart package
-
-Make sure the following are installed on your local machine:
-- Node.js
-- MongoDB
-- Angular CLI (@angular/cli)
-- nodemon
-
-The following packages are installed:
-- bootstrap@next
-- font-awesome
-- angular2-jwt
-
-This quickstart includes examples of how to make basic protected requests. The auth service and guard are created to protect routes and authenticate the user that is logged in.
-
-In order to use this repository, first fork the repository and then make the following changes:
-1. Update package.json
-- Name
-- Description
-- Repository URL
-- Bugs URL
-- Homepage
-2. Run npm install
+# The Backyard View
+This is the source code for The Backyard View website.
