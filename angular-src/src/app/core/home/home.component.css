@@ -1,4 +1,8 @@
 .jumbotron {
   padding: 64px;
-  margin-top: 20px;
+  margin: 0;
+}
+
+.bg-white {
+  background-color: white;
 }
