@@ -6,3 +6,6 @@
 
 /* Font Awesome */
 @import "../node_modules/font-awesome/css/font-awesome.min.css";
+
+/* Swiper */
+@import "../../styles/swiper.min.css";

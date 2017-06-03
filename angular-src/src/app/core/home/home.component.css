@@ -6,3 +6,13 @@
 .bg-white {
   background-color: white;
 }
+
+.swiper-slide {
+    background-position: center;
+    background-size: cover;
+}
+
+swiper{
+    height: 400px;
+    width: auto;
+}

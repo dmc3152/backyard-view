@@ -1,4 +1,8 @@
-.router-outlet {
-  /* Margin bottom by footer height */
-  margin-bottom: 60px;
+.site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+.site-content {
+  flex: 1;
 }
