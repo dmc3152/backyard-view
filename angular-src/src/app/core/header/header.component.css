@@ -1,0 +1,11 @@
+a.navbar-brand {
+  font-size: 30px;
+}
+
+li.nav-item {
+  font-size: 20px;
+}
+
+a.nav-link {
+  padding: 10px !important;
+}
