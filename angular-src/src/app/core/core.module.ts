@@ -10,6 +10,7 @@ import { FooterComponent } from './footer/footer.component';
 import { HomeComponent } from './home/home.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 import { FeaturesComponent } from './features/features.component';
+import { PricingComponent } from './pricing/pricing.component';
 
 @NgModule({
   imports: [
@@ -23,6 +24,7 @@ import { FeaturesComponent } from './features/features.component';
     HomeComponent,
     PageNotFoundComponent,
     FeaturesComponent,
+    PricingComponent,
   ],
   exports: [
     HeaderComponent,
